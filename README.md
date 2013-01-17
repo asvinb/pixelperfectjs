@@ -7,7 +7,7 @@ PixelPerfectJs allows developers to put an image overlay on top of your HTML pag
 How to use:
 -----------
 Just add the following line before your closing body tag:
-<script type="text/javascript" src="http://dl.dropbox.com/u/2369055/pixelperfectjs/_ui/js/pixelPerfect.all.js"></script>
+    <script type="text/javascript" src="http://dl.dropbox.com/u/2369055/pixelperfectjs/_ui/js/pixelPerfect.all.js"></script>
 
 The PixelPerfectJS panel will then be displayed.
 
