@@ -29,7 +29,7 @@
 #pixel-perfect-panel {
 	padding: 10px 10px 13px 10px;
 	width: 180px;
-	position: absolute;
+	position: absolute !important;
 	top: 20px;
 	left: 20px;
 	z-index: 50000;
