@@ -69,6 +69,7 @@
 	margin: 0 0 5px 0;
 	font-size: 12px !important;
 	text-align: left !important;
+	font-family: Arial !important;
 }
 
 #pixel-perfect-panel p {
@@ -147,13 +148,14 @@
 
 #pixel-perfect-panel h2 {
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 14px !important;
 	text-transform: uppercase;
 	padding: 0 0 10px 0;
 	margin: 0 0 10px 0;
 	border-bottom: 2px solid #ccc;
 	text-align: center;
 	cursor: all-scroll;
+	font-family: Arial !important;
 }
 
 #pixel-perfect-panel label {
