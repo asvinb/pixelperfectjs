@@ -54,6 +54,7 @@
 	border-top: 1px solid #ccc;
 	padding: 10px 0 0 0;
 	margin: 10px 0 0 0;
+	text-align: left !important;
 }
 
 #pixel-perfect-panel li:first-child {
@@ -66,14 +67,15 @@
 	font-weight: bold;
 	text-transform: uppercase;
 	margin: 0 0 5px 0;
-	font-size: 12px;
+	font-size: 12px !important;
+	text-align: left !important;
 }
 
 #pixel-perfect-panel p {
 	margin: 0 0 2px 0;
 }
 
-.ui-state-default, .ui-widget-content .ui-state-default {
+#pixel-perfect-panel .ui-state-default, #pixel-perfect-panel .ui-widget-content .ui-state-default {
 	border-radius: 10px;
 }
 
