@@ -8,7 +8,7 @@ How to use:
 -----------
 Save the following link as a bookmark, or drag it to the links/bookmarks bar in your browser:
 
-<a href="javascript:(function%20()%20%7B%0A%09var%20jsCode%20%3D%20document.createElement('script')%3B%0A%09jsCode.setAttribute('src'%2C%20'%2F%2Fdl.dropbox.com%2Fu%2F2369055%2Fpixelperfectjs%2F_ui%2Fjs%2FpixelPerfect.all.js')%3B%0A%20%20%20%20document.body.appendChild(jsCode)%3B%0A%7D())%3B">PixelPerfectJS</a>
+[PixelPerfectJS](javascript:(function%20()%20%7B%0A%09var%20jsCode%20%3D%20document.createElement('script')%3B%0A%09jsCode.setAttribute('src'%2C%20'%2F%2Fdl.dropbox.com%2Fu%2F2369055%2Fpixelperfectjs%2F_ui%2Fjs%2FpixelPerfect.all.js')%3B%0A%20%20%20%20document.body.appendChild(jsCode)%3B%0A%7D())%3B "PixelPerfectJS")
 
 Or if you don’t want to use the bookmarklet, just add the following line before your closing body tag:
 ```
