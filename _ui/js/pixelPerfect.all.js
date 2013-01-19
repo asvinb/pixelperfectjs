@@ -66,7 +66,7 @@ var PixelPerfect = {
     // the active one
     activeUrl: '',
     // path to our css file
-    cssPath: 'http://dl.dropbox.com/u/2369055/pixelperfectjs/_ui/css/main.css',
+    cssPath: '//dl.dropbox.com/u/2369055/pixelperfectjs/_ui/css/main.css',
     //cssPath: '_ui/css/main.css',
     panelHtml: '<div id="pixel-perfect-panel"><h2>Pixel Perfect JS</h2><ul><li><h3>Enable </h3><label for="pixel-perfect-enable-yes">Yes</label><input type="radio" value="yes" name="pixel-perfect-enable" id="pixel-perfect-enable-yes" checked="checked"/><label for="pixel-perfect-enable-no">No</label><input type="radio" value="no" name="pixel-perfect-enable" id="pixel-perfect-enable-no"/></li><li><h3>Designs</h3><input type="text" name="pixel-perfect-url" id="pixel-perfect-url" placeholder="Relative/Absolute Image URL" value="" /><a href="#" id="btn-add-url">+</a><ul id="pixel-perfect-urls"></ul></li><li><h3>Position</h3><p> top <input type="text" name="pixel-perfect-top" id="pixel-perfect-top" value="0"/> left <input type="text" name="pixel-perfect-left" id="pixel-perfect-left" value="0"/></p></li><li><h3>Opacity</h3><p><span id="pixel-perfect-opacity-value">50</span>%</p><div id="pixel-perfect-opacity-slider"></div></li></ul></div>',
 
