@@ -6,7 +6,7 @@ PixelPerfectJs allows developers to put an image overlay on top of your HTML pag
 
 How to use:
 -----------
-* To install the bookmarklet, go to my announcement blog post here: http://htmlblog.net/introducing-pixel-perfect-js/
+* To install the bookmarklet, go to my announcement blog post here: __http://htmlblog.net/introducing-pixel-perfect-js/__
 * Follow the install instructions.
 
 Or if you don’t want to use the bookmarklet, just add the following line before your closing body tag:
